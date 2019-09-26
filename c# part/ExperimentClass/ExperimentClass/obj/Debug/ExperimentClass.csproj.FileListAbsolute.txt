@@ -1,0 +1,14 @@
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ExperimentClass\ExperimentClass\bin\Debug\ExperimentClass.exe.config
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ExperimentClass\ExperimentClass\bin\Debug\ExperimentClass.exe
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ExperimentClass\ExperimentClass\bin\Debug\ExperimentClass.pdb
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ExperimentClass\ExperimentClass\obj\Debug\ExperimentClass.csprojAssemblyReference.cache
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ExperimentClass\ExperimentClass\obj\Debug\ExperimentClass.csproj.CoreCompileInputs.cache
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ExperimentClass\ExperimentClass\obj\Debug\ExperimentClass.exe
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ExperimentClass\ExperimentClass\obj\Debug\ExperimentClass.pdb
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ExperimentClass\ExperimentClass\bin\Debug\ExperimentClass.exe.config
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ExperimentClass\ExperimentClass\bin\Debug\ExperimentClass.exe
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ExperimentClass\ExperimentClass\bin\Debug\ExperimentClass.pdb
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ExperimentClass\ExperimentClass\obj\Debug\ExperimentClass.csprojAssemblyReference.cache
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ExperimentClass\ExperimentClass\obj\Debug\ExperimentClass.csproj.CoreCompileInputs.cache
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ExperimentClass\ExperimentClass\obj\Debug\ExperimentClass.exe
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ExperimentClass\ExperimentClass\obj\Debug\ExperimentClass.pdb

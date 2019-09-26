@@ -1,0 +1,34 @@
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\bin\Debug\ShutterUI.exe.config
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\bin\Debug\ShutterUI.exe
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\bin\Debug\ShutterUI.pdb
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\ShutterUI.csprojAssemblyReference.cache
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\MainWindow.g.cs
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\App.g.cs
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\ShutterUI_MarkupCompile.cache
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\ShutterUI_MarkupCompile.lref
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\MainWindow.baml
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\ShutterUI.g.resources
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\ShutterUI.Properties.Resources.resources
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\ShutterUI.csproj.GenerateResource.cache
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\ShutterUI.csproj.CoreCompileInputs.cache
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\ShutterUI.exe
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\ShutterUI.pdb
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\bin\Debug\ShutterUI.exe.config
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\bin\Debug\ShutterUI.exe
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\bin\Debug\ShutterUI.pdb
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\ShutterUI.csprojAssemblyReference.cache
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\MainWindow.g.cs
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\App.g.cs
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\ShutterUI_MarkupCompile.cache
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\ShutterUI_MarkupCompile.lref
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\MainWindow.baml
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\ShutterUI.g.resources
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\ShutterUI.Properties.Resources.resources
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\ShutterUI.csproj.GenerateResource.cache
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\ShutterUI.csproj.CoreCompileInputs.cache
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\ShutterUI.exe
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\ShutterUI.pdb
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\bin\Debug\ExperimentClassLibrary.DLL
+C:\Users\Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\ShutterUI.csproj.CopyComplete
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\bin\Debug\ExperimentClassLibrary.DLL
+C:\Users\Roman Perekrestov\Disk Google\ShutterProject\c# part\ShutterUI\ShutterUI\obj\Debug\ShutterUI.csproj.CopyComplete
