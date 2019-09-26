@@ -6,3 +6,6 @@ In the Instirute of Physics our department works with a photo-electrochemical de
 * First experiments with WPF.
 * Serial port communication.
 * Abuse of events instead of MVVM implementation.
+
+## Used frameworks and programming languages
+C#(WPF), Arduino C
